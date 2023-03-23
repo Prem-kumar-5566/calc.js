@@ -1,18 +1,5 @@
 {
-    "name":"github",
-    "version":"0.0.1",
-    "main" : "calc",
-    "repository": {
-        "type" : "git",
-        "url" : "https://github.com/Prem-kumar-5566/calc.js"
-    },
-    "keywords": [
-        "calc",
-        "calculator",
-        "psk"
-    ],
-    "dependencies": {},
-    "engines": {
-        "node" : "*"
-    }
+    "name" : "pvpcalc",
+    "version" : "0.0.1",
+    "main" : "calc"
 }
